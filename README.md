@@ -24,4 +24,11 @@ HERE IS THE GLANCES OF THE WEBSITE
 
 ![Screenshot (411)](https://github.com/user-attachments/assets/493a4c5a-6504-4ef2-bd59-581b6e0bb005)
 
+TO RUN THIS
+1.npm create vite@latest my-project -- --template react
+2.cd my-project
+3.npm install -D tailwindcss@3 postcss autoprefixer
+4.npx tailwindcss init -p
+5.npm run dev
+
 
